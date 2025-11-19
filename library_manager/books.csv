@@ -1,0 +1,7 @@
+book_id,title,author,copies
+B101,Python Basics,Guido,5
+B102,DSA,Cormen,2
+B103,Clean Code,Robert Martin,4
+B104,Fluent Python,Luciano Ramalho,2
+B105,Automate Boring Stuff,Al Sweigart,6
+B106,Python,Neha Kaushik,1

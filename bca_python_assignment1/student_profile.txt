@@ -1,0 +1,12 @@
+----------------------------------------
+           STUDENT PROFILE SYSTEM       
+----------------------------------------
+Name: Md Faizan Ali
+Roll No: 2501660032
+Course: BCA Cybersecurity
+University: K R Mangalam University
+City: New Delhi
+Age: 20
+Hobby: Bike Riding
+----------------------------------------
+Welcome to Python Programming!
